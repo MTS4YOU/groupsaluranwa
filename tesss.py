@@ -1,0 +1,18 @@
+nama = input("Viandra Natari Nugroho Putrie")
+umur = input("15")
+alamat = input("Jl. Rambang 5")
+telepon = input("085693446156")
+kelas = input("X.7")
+lahir = input("06 Juli 2010")
+ayah = input("Tito Achmad Nugroho")
+ibu = input("Fitri Kurniawati")
+
+print("\n--- Data Diri Siswa ---")
+print(f"Nama   : {nama}")
+print(f"Umur   : {umur}")
+print(f"Alamat : {alamat}")
+print(f"Telepon  : {telepon}")
+print(f"Kelas  : {kelas}")
+print(f"Tgl. Lahir  : {lahir}")
+print(f"Nama Ayah  : {ayah}"
+print(f"Nama Ibu  : {ibu}")
