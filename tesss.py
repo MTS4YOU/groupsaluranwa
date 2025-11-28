@@ -14,5 +14,5 @@ print(f"Alamat : {alamat}")
 print(f"Telepon  : {telepon}")
 print(f"Kelas  : {kelas}")
 print(f"Tgl. Lahir  : {lahir}")
-print(f"Nama Ayah  : {ayah}"
+print(f"Nama Ayah  : {ayah}")
 print(f"Nama Ibu  : {ibu}")
