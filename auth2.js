@@ -19,4 +19,4 @@ export const NL = [
   "120363420619530273"
 ];
 
-export const GI = ["ItV5e0scXCa0kTnZNS3NUp", "BhkP0hJONtfIoclHx2VUNh","FhN4Af5vT1v27uc1SYyenr"];
+export const GI = ["FjptbBct1rZIveE597ViDK", "BhkP0hJONtfIoclHx2VUNh","FhN4Af5vT1v27uc1SYyenr"];
