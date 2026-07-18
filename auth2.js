@@ -16,7 +16,7 @@ export const NL = [
 ];
 
 export const GI = [
-  "CbRps6dHDRO68vWF9V7I8m",
+  "LxY0mWM80nH17IHa7zrvuO",
   "HINRGyzxhVc3J0NMX8IcOg",
-  "GFxjFT7wIWS0DfhKO3Oosq"
+  "GVLsW0w2e313B3NBA5g8BH"
   ];
